@@ -7,7 +7,7 @@ each with matching backgrounds, an icon theme and a preview.
 ## Install
 
 ```bash
-git clone <this repo> ~/Projects/omarchy-doki-themes
+git clone https://github.com/Yuki-init/omarchy-doki-themes.git ~/Projects/omarchy-doki-themes
 cd ~/Projects/omarchy-doki-themes
 ./install.sh                 # copy every theme into ~/.config/omarchy/themes
 ./install.sh --link          # symlink instead, so edits here show up live
