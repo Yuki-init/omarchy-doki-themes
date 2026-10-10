@@ -1,0 +1,32 @@
+# Doki Theme: Re Zero - Echidna
+mode = "dark"
+
+accent = "#ececec"
+selection = "#274540"
+muted = "#505a6d"
+
+background = "#141216"
+dark_background = "#0c0b0e"
+darker_background = "#050405"
+lighter_background = "#110f13"
+
+foreground = "#a8a8a8"
+dark_foreground = "#6f7779"
+light_foreground = "#a8a8a8"
+bright_foreground = "#fbfbfb"
+
+red = "#ff5555"
+yellow = "#f4fa8c"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#8daeef"
+magenta = "#c67dfa"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#f8fcb3"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#b1c7f4"
+bright_magenta = "#d7a4fc"

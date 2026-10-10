@@ -1,0 +1,32 @@
+# Doki Theme: EroManga Sensei - Sagiri
+mode = "dark"
+
+accent = "#5eabb8"
+selection = "#052421"
+muted = "#507f78"
+
+background = "#0b443e"
+dark_background = "#093732"
+darker_background = "#072a26"
+lighter_background = "#08332e"
+
+foreground = "#f3edff"
+dark_foreground = "#ffffff"
+light_foreground = "#f3edff"
+bright_foreground = "#e7e9ff"
+
+red = "#ff5555"
+yellow = "#ffd448"
+orange = "#fdaa39"
+green = "#83ee7b"
+cyan = "#72cfde"
+blue = "#9fbbff"
+magenta = "#f1a4fa"
+brown = "#b56902"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#ffde71"
+bright_green = "#a5f39f"
+bright_cyan = "#93dae6"
+bright_blue = "#c8d8ff"
+bright_magenta = "#f7cbfc"

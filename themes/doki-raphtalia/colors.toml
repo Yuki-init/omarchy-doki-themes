@@ -1,0 +1,32 @@
+# Doki Theme: The Rising of Shield Hero - Raphtalia
+mode = "dark"
+
+accent = "#984243"
+selection = "#5c3915"
+muted = "#807571"
+
+background = "#231a13"
+dark_background = "#19130e"
+darker_background = "#0f0b08"
+lighter_background = "#1e160f"
+
+foreground = "#cccccc"
+dark_foreground = "#6c5f55"
+light_foreground = "#cccccc"
+bright_foreground = "#fbfbfb"
+
+red = "#ae4b4d"
+yellow = "#ffd448"
+orange = "#fd9144"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#8097e3"
+magenta = "#d58cff"
+brown = "#bf5102"
+
+bright_red = "#bc6667"
+bright_yellow = "#ffde71"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#a1b2ea"
+bright_magenta = "#e4b5ff"

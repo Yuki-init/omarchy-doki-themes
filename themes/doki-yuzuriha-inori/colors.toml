@@ -1,0 +1,32 @@
+# Doki Theme: Guilty Crown - Yuzuriha Inori
+mode = "light"
+
+accent = "#ba1515"
+selection = "#ec7f54"
+muted = "#99563d"
+
+background = "#f6a873"
+dark_background = "#f59f65"
+darker_background = "#f49656"
+lighter_background = "#f69b5c"
+
+foreground = "#101010"
+dark_foreground = "#743333"
+light_foreground = "#101010"
+bright_foreground = "#101010"
+
+red = "#99101b"
+yellow = "#7a4f18"
+orange = "#894935"
+green = "#116826"
+cyan = "#0d6373"
+blue = "#2b57a7"
+magenta = "#7f3f90"
+brown = "#522c20"
+
+bright_red = "#7d0d16"
+bright_yellow = "#603f13"
+bright_green = "#0c4d1d"
+bright_cyan = "#0a4c58"
+bright_blue = "#254a8f"
+bright_magenta = "#6c357a"

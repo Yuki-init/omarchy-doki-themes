@@ -1,0 +1,32 @@
+# Doki Theme: KonoSuba - Aqua
+mode = "dark"
+
+accent = "#578cda"
+selection = "#4c637a"
+muted = "#6272a4"
+
+background = "#282b42"
+dark_background = "#222538"
+darker_background = "#1c1f2f"
+lighter_background = "#242942"
+
+foreground = "#bbbbbb"
+dark_foreground = "#61647b"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#ff5555"
+yellow = "#eff586"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6893f3"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#f4f8ac"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#8eaef6"
+bright_magenta = "#e4b5ff"

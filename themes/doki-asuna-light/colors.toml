@@ -1,0 +1,32 @@
+# Doki Theme: Sword Art Online - Asuna Light
+mode = "light"
+
+accent = "#a61d0d"
+selection = "#e9b4b8"
+muted = "#6a737d"
+
+background = "#ffffff"
+dark_background = "#f7f7f7"
+darker_background = "#f0f0f0"
+lighter_background = "#fcfcfc"
+
+foreground = "#252427"
+dark_foreground = "#aaaaaa"
+light_foreground = "#252427"
+bright_foreground = "#393d45"
+
+red = "#ec081e"
+yellow = "#c37500"
+orange = "#ba7631"
+green = "#30964b"
+cyan = "#0896ad"
+blue = "#3b8ad2"
+magenta = "#a043c9"
+brown = "#7d4f21"
+
+bright_red = "#ce071a"
+bright_yellow = "#a56300"
+bright_green = "#297f40"
+bright_cyan = "#077d90"
+bright_blue = "#2d7bc2"
+bright_magenta = "#9035b8"

@@ -1,0 +1,32 @@
+# Doki Theme: Re Zero - Ram
+mode = "dark"
+
+accent = "#e594bf"
+selection = "#7a546f"
+muted = "#987fa5"
+
+background = "#302930"
+dark_background = "#282228"
+darker_background = "#1f1b1f"
+lighter_background = "#373139"
+
+foreground = "#bbbbbb"
+dark_foreground = "#666879"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#ff5555"
+yellow = "#fbff90"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6fa8ff"
+magenta = "#e565ee"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#fcffb9"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#98c1ff"
+bright_magenta = "#eb8af2"

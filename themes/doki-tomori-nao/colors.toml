@@ -1,0 +1,32 @@
+# Doki Theme: Charlotte - Tomori Nao
+mode = "light"
+
+accent = "#276fd8"
+selection = "#b7c6ef"
+muted = "#9c917e"
+
+background = "#f5ede5"
+dark_background = "#f1e5da"
+darker_background = "#ecdecf"
+lighter_background = "#e9e0db"
+
+foreground = "#101010"
+dark_foreground = "#417db3"
+light_foreground = "#101010"
+bright_foreground = "#101010"
+
+red = "#fd000f"
+yellow = "#a67200"
+orange = "#bc6722"
+green = "#208d3b"
+cyan = "#07859a"
+blue = "#497ac6"
+magenta = "#6a0fb8"
+brown = "#7b4416"
+
+bright_red = "#de000d"
+bright_yellow = "#875d00"
+bright_green = "#1a7431"
+bright_cyan = "#066c7c"
+bright_blue = "#396bb6"
+bright_magenta = "#5a0d9c"

@@ -1,0 +1,32 @@
+# Doki Theme: Kill la Kill - Ryuko Dark
+mode = "dark"
+
+accent = "#c94147"
+selection = "#563036"
+muted = "#677684"
+
+background = "#2f363c"
+dark_background = "#282e33"
+darker_background = "#22272b"
+lighter_background = "#282f35"
+
+foreground = "#c5c5c5"
+dark_foreground = "#666879"
+light_foreground = "#bbbbbb"
+bright_foreground = "#e2cb14"
+
+red = "#cf595e"
+yellow = "#dccf4a"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6893f3"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#d8797d"
+bright_yellow = "#e3d86c"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#8eaef6"
+bright_magenta = "#e4b5ff"

@@ -1,0 +1,32 @@
+# Doki Theme: Future Diary - Gasai Yuno
+mode = "dark"
+
+accent = "#ffa0b2"
+selection = "#602b50"
+muted = "#a06aa4"
+
+background = "#1a081a"
+dark_background = "#0e040e"
+darker_background = "#030103"
+lighter_background = "#130511"
+
+foreground = "#c8c8c8"
+dark_foreground = "#796675"
+light_foreground = "#c8c8c8"
+bright_foreground = "#f6c4d3"
+
+red = "#ffa0b2"
+yellow = "#f6e3cc"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6196fa"
+magenta = "#ff8bf5"
+brown = "#b36511"
+
+bright_red = "#ffc9d3"
+bright_yellow = "#fcf6ef"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#89b0fb"
+bright_magenta = "#ffb4f9"

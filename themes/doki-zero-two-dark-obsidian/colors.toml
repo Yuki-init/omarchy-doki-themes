@@ -1,0 +1,32 @@
+# Doki Theme: Darling in the Franxx - Zero Two Dark Obsidian
+mode = "dark"
+
+accent = "#1ecd86"
+selection = "#174a2e"
+muted = "#57745d"
+
+background = "#1a0c12"
+dark_background = "#10070b"
+darker_background = "#050204"
+lighter_background = "#0e0509"
+
+foreground = "#bbbbbb"
+dark_foreground = "#53615b"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#ff0000"
+yellow = "#ffd448"
+orange = "#efa554"
+green = "#b6ffbc"
+cyan = "#75d7ec"
+blue = "#82b1ee"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#ff2929"
+bright_yellow = "#ffde71"
+bright_green = "#dfffe1"
+bright_cyan = "#99e1f1"
+bright_blue = "#a6c7f3"
+bright_magenta = "#e4b5ff"

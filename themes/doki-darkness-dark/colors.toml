@@ -1,0 +1,32 @@
+# Doki Theme: KonoSuba - Darkness Dark
+mode = "dark"
+
+accent = "#e99745"
+selection = "#553919"
+muted = "#6272a4"
+
+background = "#080703"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#100d03"
+
+foreground = "#c3c3c3"
+dark_foreground = "#666879"
+light_foreground = "#c3c3c3"
+bright_foreground = "#fbfbfb"
+
+red = "#cd5361"
+yellow = "#ffba2f"
+orange = "#e99745"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#4593f5"
+magenta = "#d58cff"
+brown = "#9c5712"
+
+bright_red = "#d6737e"
+bright_yellow = "#ffc858"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#6ca9f7"
+bright_magenta = "#e4b5ff"

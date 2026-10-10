@@ -1,0 +1,32 @@
+# Doki Theme: Re Zero - Beatrice
+mode = "light"
+
+accent = "#5d93e7"
+selection = "#fcc9f2"
+muted = "#7d6a7d"
+
+background = "#ffe4f1"
+dark_background = "#ffd5e9"
+darker_background = "#ffc5e1"
+lighter_background = "#f5c1d4"
+
+foreground = "#000000"
+dark_foreground = "#aaaaaa"
+light_foreground = "#000000"
+bright_foreground = "#8a0b7a"
+
+red = "#cd4f75"
+yellow = "#aa6922"
+orange = "#af681d"
+green = "#35854a"
+cyan = "#07859a"
+blue = "#3176e0"
+magenta = "#d500e0"
+brown = "#6e4112"
+
+bright_red = "#c63863"
+bright_yellow = "#90591d"
+bright_green = "#2d6f3e"
+bright_cyan = "#066c7c"
+bright_blue = "#1f66d3"
+bright_magenta = "#b800c1"

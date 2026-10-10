@@ -1,0 +1,32 @@
+# Doki Theme: Kill la Kill - Satsuki Dark
+mode = "dark"
+
+accent = "#f03022"
+selection = "#5d2626"
+muted = "#596570"
+
+background = "#272b2d"
+dark_background = "#202325"
+darker_background = "#191b1d"
+lighter_background = "#1d2123"
+
+foreground = "#d3d3d3"
+dark_foreground = "#596570"
+light_foreground = "#d3d3d3"
+bright_foreground = "#fefefe"
+
+red = "#ff6b75"
+yellow = "#f8f282"
+orange = "#faa150"
+green = "#46f263"
+cyan = "#75d7ec"
+blue = "#96b7fb"
+magenta = "#d58cff"
+brown = "#c56106"
+
+bright_red = "#ff949b"
+bright_yellow = "#faf6a9"
+bright_green = "#6cf583"
+bright_cyan = "#99e1f1"
+bright_blue = "#bdd2fc"
+bright_magenta = "#e4b5ff"

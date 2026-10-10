@@ -1,0 +1,32 @@
+# Doki Theme: Steins Gate - Makise Kurisu
+mode = "dark"
+
+accent = "#8f60b5"
+selection = "#391717"
+muted = "#8b6868"
+
+background = "#1c1010"
+dark_background = "#120a0a"
+darker_background = "#090505"
+lighter_background = "#190d0d"
+
+foreground = "#c3c3c3"
+dark_foreground = "#624849"
+light_foreground = "#c3c3c3"
+bright_foreground = "#fbfbfb"
+
+red = "#ec5d61"
+yellow = "#efa554"
+orange = "#fc8f76"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#4593f5"
+magenta = "#ca85ff"
+brown = "#ed3005"
+
+bright_red = "#f08285"
+bright_yellow = "#f2b979"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#6ca9f7"
+bright_magenta = "#dcaeff"

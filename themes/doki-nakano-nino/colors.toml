@@ -1,0 +1,32 @@
+# Doki Theme: Quintessential Quintuplets - Nakano Nino
+mode = "dark"
+
+accent = "#d45575"
+selection = "#452735"
+muted = "#5a4c63"
+
+background = "#1a161c"
+dark_background = "#120f13"
+darker_background = "#0a090b"
+lighter_background = "#221c23"
+
+foreground = "#bbbbbb"
+dark_foreground = "#666879"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#d45575"
+yellow = "#f6e3cc"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#8daeef"
+magenta = "#ea8bff"
+brown = "#b36511"
+
+bright_red = "#dc768f"
+bright_yellow = "#fcf6ef"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#b1c7f4"
+bright_magenta = "#f1b4ff"

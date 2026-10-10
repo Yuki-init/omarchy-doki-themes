@@ -1,0 +1,32 @@
+# Doki Theme: NekoPara - Shigure
+mode = "light"
+
+accent = "#5e1f7f"
+selection = "#5756a2"
+muted = "#2e2e57"
+
+background = "#e5e5ff"
+dark_background = "#d6d6ff"
+darker_background = "#c6c6ff"
+lighter_background = "#cccaff"
+
+foreground = "#101010"
+dark_foreground = "#38336b"
+light_foreground = "#101010"
+bright_foreground = "#0932c8"
+
+red = "#f20000"
+yellow = "#a46b21"
+orange = "#c05c19"
+green = "#1e8538"
+cyan = "#07859a"
+blue = "#005cc5"
+magenta = "#a25ab2"
+brown = "#7c3b10"
+
+bright_red = "#d30000"
+bright_yellow = "#8b5a1c"
+bright_green = "#186c2d"
+bright_cyan = "#066c7c"
+bright_blue = "#004ea6"
+bright_magenta = "#924ca2"

@@ -1,0 +1,32 @@
+# Doki Theme: Evangelion - Rei
+mode = "dark"
+
+accent = "#b53241"
+selection = "#25435a"
+muted = "#6272a4"
+
+background = "#171918"
+dark_background = "#101110"
+darker_background = "#080909"
+lighter_background = "#191b1a"
+
+foreground = "#d2d2d2"
+dark_foreground = "#666879"
+light_foreground = "#d2d2d2"
+bright_foreground = "#ffffff"
+
+red = "#bd3444"
+yellow = "#f6e3cc"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#5390ff"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#ce4c5b"
+bright_yellow = "#fcf6ef"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#7caaff"
+bright_magenta = "#e4b5ff"

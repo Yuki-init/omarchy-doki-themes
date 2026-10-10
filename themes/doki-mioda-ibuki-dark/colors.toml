@@ -1,0 +1,32 @@
+# Doki Theme: DanganRonpa - Mioda Ibuki Dark
+mode = "dark"
+
+accent = "#5395b4"
+selection = "#452735"
+muted = "#6272a4"
+
+background = "#141617"
+dark_background = "#0d0e0f"
+darker_background = "#060607"
+lighter_background = "#1a1e20"
+
+foreground = "#bbbbbb"
+dark_foreground = "#666879"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#ff5555"
+yellow = "#f4fa8c"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#8daeef"
+magenta = "#ff8bf5"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#f8fcb3"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#b1c7f4"
+bright_magenta = "#ffb4f9"

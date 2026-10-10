@@ -1,0 +1,32 @@
+# Doki Theme: Helpful Fox Senko-san - Senko
+mode = "light"
+
+accent = "#cb3752"
+selection = "#f4ac96"
+muted = "#aa9381"
+
+background = "#ffe8d1"
+dark_background = "#ffe0c2"
+darker_background = "#ffd9b2"
+lighter_background = "#f5dfbe"
+
+foreground = "#073642"
+dark_foreground = "#cd9774"
+light_foreground = "#073642"
+bright_foreground = "#101010"
+
+red = "#aa3348"
+yellow = "#a3730f"
+orange = "#c85400"
+green = "#208d3b"
+cyan = "#07859a"
+blue = "#4b72d7"
+magenta = "#972ca3"
+brown = "#7b3400"
+
+bright_red = "#922c3e"
+bright_yellow = "#875f0c"
+bright_green = "#1a7431"
+bright_cyan = "#066c7c"
+bright_blue = "#325ed1"
+bright_magenta = "#81258b"

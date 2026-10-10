@@ -1,0 +1,32 @@
+# Doki Theme: Darling in the Franxx - Hiro
+mode = "dark"
+
+accent = "#3877d1"
+selection = "#1d4a88"
+muted = "#5e6c84"
+
+background = "#1d1e22"
+dark_background = "#16171a"
+darker_background = "#0f0f11"
+lighter_background = "#121317"
+
+foreground = "#b0b0b0"
+dark_foreground = "#4f5d76"
+light_foreground = "#b0b0b0"
+bright_foreground = "#fbfbfb"
+
+red = "#ea517a"
+yellow = "#efa554"
+orange = "#ffa25f"
+green = "#83f57f"
+cyan = "#5abfcb"
+blue = "#5889f1"
+magenta = "#f38bff"
+brown = "#de5d00"
+
+bright_red = "#ee7596"
+bright_yellow = "#f2b979"
+bright_green = "#a8f8a5"
+bright_cyan = "#79cbd5"
+bright_blue = "#7ea4f4"
+bright_magenta = "#f7b4ff"

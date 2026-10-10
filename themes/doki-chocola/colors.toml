@@ -1,0 +1,32 @@
+# Doki Theme: NekoPara - Chocola
+mode = "dark"
+
+accent = "#f771a3"
+selection = "#6a3849"
+muted = "#806872"
+
+background = "#30292c"
+dark_background = "#282224"
+darker_background = "#1f1b1d"
+lighter_background = "#282023"
+
+foreground = "#d3d3d3"
+dark_foreground = "#6c5a63"
+light_foreground = "#d3d3d3"
+bright_foreground = "#fefefe"
+
+red = "#ff6b75"
+yellow = "#f6e9cb"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#96b7fb"
+magenta = "#ff93ed"
+brown = "#b36511"
+
+bright_red = "#ff949b"
+bright_yellow = "#fcf8ee"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#bdd2fc"
+bright_magenta = "#ffbcf4"

@@ -1,0 +1,32 @@
+# Doki Theme: Type-Moon - Gray
+mode = "dark"
+
+accent = "#4ed4b0"
+selection = "#295043"
+muted = "#6b7b80"
+
+background = "#3b3f41"
+dark_background = "#343739"
+darker_background = "#2c2f31"
+lighter_background = "#363e3e"
+
+foreground = "#d4d4d4"
+dark_foreground = "#556c6a"
+light_foreground = "#b0b0b0"
+bright_foreground = "#fbfbfb"
+
+red = "#ec9cb2"
+yellow = "#f6e9cb"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#89acf6"
+magenta = "#fca7fa"
+brown = "#b36511"
+
+bright_red = "#f3becd"
+bright_yellow = "#fcf8ee"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#afc7f9"
+bright_magenta = "#fdcefc"

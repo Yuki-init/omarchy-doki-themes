@@ -1,0 +1,32 @@
+# Doki Theme: Shokugeki no Soma - Yukihira Soma
+mode = "dark"
+
+accent = "#d13358"
+selection = "#4f1d27"
+muted = "#617391"
+
+background = "#122235"
+dark_background = "#0e1b2a"
+darker_background = "#0a131e"
+lighter_background = "#06111d"
+
+foreground = "#dbdbdb"
+dark_foreground = "#5d6c80"
+light_foreground = "#dbdbdb"
+bright_foreground = "#fbfbfb"
+
+red = "#dc3f52"
+yellow = "#ffef41"
+orange = "#ff984b"
+green = "#4bff75"
+cyan = "#75d7ec"
+blue = "#6e8ef8"
+magenta = "#d58cff"
+brown = "#cb5700"
+
+bright_red = "#e26271"
+bright_yellow = "#fff26a"
+bright_green = "#74ff94"
+bright_cyan = "#99e1f1"
+bright_blue = "#95acfa"
+bright_magenta = "#e4b5ff"

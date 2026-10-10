@@ -1,0 +1,32 @@
+# Doki Theme: KonoSuba - Megumin
+mode = "dark"
+
+accent = "#af3238"
+selection = "#563036"
+muted = "#726868"
+
+background = "#271c21"
+dark_background = "#1e1619"
+darker_background = "#150f12"
+lighter_background = "#281d22"
+
+foreground = "#bbbbbb"
+dark_foreground = "#7b7373"
+light_foreground = "#bbbbbb"
+bright_foreground = "#e2cb14"
+
+red = "#c3394a"
+yellow = "#ffd866"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6fa8ff"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#ce5665"
+bright_yellow = "#ffe28f"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#98c1ff"
+bright_magenta = "#e4b5ff"

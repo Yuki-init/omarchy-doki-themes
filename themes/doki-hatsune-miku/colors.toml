@@ -1,0 +1,32 @@
+# Doki Theme: Vocaloid - Hatsune Miku
+mode = "dark"
+
+accent = "#53b0b4"
+selection = "#4c7a76"
+muted = "#67807b"
+
+background = "#293030"
+dark_background = "#222828"
+darker_background = "#1b1f1f"
+lighter_background = "#313939"
+
+foreground = "#bbbbbb"
+dark_foreground = "#666879"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#ff5555"
+yellow = "#f6e9cb"
+orange = "#efa554"
+green = "#b5f6ba"
+cyan = "#53b0b4"
+blue = "#7bb9fd"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#fcf8ee"
+bright_green = "#d9fadc"
+bright_cyan = "#6fbdc0"
+bright_blue = "#a3cefe"
+bright_magenta = "#e4b5ff"

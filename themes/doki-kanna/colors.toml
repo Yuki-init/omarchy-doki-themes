@@ -1,0 +1,32 @@
+# Doki Theme: Miss Kobayashi's Dragon Maid - Kanna
+mode = "dark"
+
+accent = "#504fb2"
+selection = "#492744"
+muted = "#6272a4"
+
+background = "#1b1529"
+dark_background = "#14101f"
+darker_background = "#0e0b15"
+lighter_background = "#150f20"
+
+foreground = "#d0d0d0"
+dark_foreground = "#6a6679"
+light_foreground = "#d0d0d0"
+bright_foreground = "#fbfbfb"
+
+red = "#ff5555"
+yellow = "#faf7ba"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#6ee4f8"
+blue = "#6aadff"
+magenta = "#d285fd"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#fdfbe0"
+bright_green = "#66eb88"
+bright_cyan = "#95ebfa"
+bright_blue = "#93c3ff"
+bright_magenta = "#e1adfe"

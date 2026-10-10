@@ -1,0 +1,32 @@
+# Doki Theme: Lucky Star - Konata
+mode = "dark"
+
+accent = "#4bcf4c"
+selection = "#3a6c75"
+muted = "#b0c0fc"
+
+background = "#334c7d"
+dark_background = "#2f4572"
+darker_background = "#2a3f67"
+lighter_background = "#344d82"
+
+foreground = "#f3edff"
+dark_foreground = "#ffffff"
+light_foreground = "#f3edff"
+bright_foreground = "#e7e9ff"
+
+red = "#ffc9d7"
+yellow = "#fffd9b"
+orange = "#f6be8b"
+green = "#4bcf4c"
+cyan = "#6ee4f8"
+blue = "#8195f9"
+magenta = "#d58cff"
+brown = "#ed7c15"
+
+bright_red = "#fff2f5"
+bright_yellow = "#fffec4"
+bright_green = "#6bd86c"
+bright_cyan = "#95ebfa"
+bright_blue = "#a8b6fb"
+bright_magenta = "#e4b5ff"

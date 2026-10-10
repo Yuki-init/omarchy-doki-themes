@@ -1,0 +1,32 @@
+# Doki Theme: Daily Life With A Monster Girl - Miia
+mode = "dark"
+
+accent = "#d6a53e"
+selection = "#5b3225"
+muted = "#a47272"
+
+background = "#36101c"
+dark_background = "#2a0d16"
+darker_background = "#1e0910"
+lighter_background = "#330e1b"
+
+foreground = "#efefef"
+dark_foreground = "#a87975"
+light_foreground = "#efefef"
+bright_foreground = "#fbfbfb"
+
+red = "#cb5660"
+yellow = "#e2d9bd"
+orange = "#ffb86c"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6fa8ff"
+magenta = "#d58cff"
+brown = "#ec7a00"
+
+bright_red = "#d5757d"
+bright_yellow = "#eee9d9"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#98c1ff"
+bright_magenta = "#e4b5ff"

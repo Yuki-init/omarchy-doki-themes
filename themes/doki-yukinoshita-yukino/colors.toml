@@ -1,0 +1,32 @@
+# Doki Theme: OreGairu - Yukinoshita Yukino
+mode = "dark"
+
+accent = "#30698a"
+selection = "#2d3b55"
+muted = "#596477"
+
+background = "#24262b"
+dark_background = "#1d1f23"
+darker_background = "#16171a"
+lighter_background = "#222429"
+
+foreground = "#bbbbbb"
+dark_foreground = "#545e6d"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#de5e62"
+yellow = "#ead979"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#5378c6"
+magenta = "#bd84dd"
+brown = "#b36511"
+
+bright_red = "#e58083"
+bright_yellow = "#f0e39c"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#7290d0"
+bright_magenta = "#cea4e6"

@@ -1,0 +1,32 @@
+# Doki Theme: High School DxD - Rias: Onyx
+mode = "dark"
+
+accent = "#9e1d28"
+selection = "#390c10"
+muted = "#694f4d"
+
+background = "#130000"
+dark_background = "#040000"
+darker_background = "#000000"
+lighter_background = "#1c0607"
+
+foreground = "#d8d8d8"
+dark_foreground = "#97706f"
+light_foreground = "#d8d8d8"
+bright_foreground = "#fbfbfb"
+
+red = "#b61325"
+yellow = "#f6e3cc"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#b2dbe3"
+blue = "#5a84dd"
+magenta = "#d18bff"
+brown = "#b36511"
+
+bright_red = "#db172c"
+bright_yellow = "#fcf6ef"
+bright_green = "#66eb88"
+bright_cyan = "#d0e9ee"
+bright_blue = "#7c9de4"
+bright_magenta = "#e1b4ff"

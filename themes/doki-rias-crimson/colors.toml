@@ -1,0 +1,32 @@
+# Doki Theme: High School DxD - Rias: Crimson
+mode = "dark"
+
+accent = "#e03943"
+selection = "#822e2e"
+muted = "#a47272"
+
+background = "#401112"
+dark_background = "#340e0f"
+darker_background = "#280b0b"
+lighter_background = "#401010"
+
+foreground = "#fafafa"
+dark_foreground = "#cdb0b0"
+light_foreground = "#fafafa"
+bright_foreground = "#fbfbfb"
+
+red = "#ea5b7b"
+yellow = "#ffde8b"
+orange = "#eea367"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#5183dc"
+magenta = "#d58cff"
+brown = "#c06115"
+
+bright_red = "#ef7f98"
+bright_yellow = "#ffeab4"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#739be3"
+bright_magenta = "#e4b5ff"

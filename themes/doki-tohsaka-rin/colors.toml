@@ -1,0 +1,32 @@
+# Doki Theme: Fate - Tohsaka Rin
+mode = "dark"
+
+accent = "#4c9697"
+selection = "#501f1f"
+muted = "#4c8484"
+
+background = "#191718"
+dark_background = "#111010"
+darker_background = "#090809"
+lighter_background = "#151314"
+
+foreground = "#bbbbbb"
+dark_foreground = "#847878"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#fc5773"
+yellow = "#fff08b"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#77e4f8"
+blue = "#6e85f8"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#fd7f94"
+bright_yellow = "#fff5b4"
+bright_green = "#66eb88"
+bright_cyan = "#9eecfa"
+bright_blue = "#95a6fa"
+bright_magenta = "#e4b5ff"

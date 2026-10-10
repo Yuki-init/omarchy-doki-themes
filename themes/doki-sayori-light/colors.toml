@@ -1,0 +1,32 @@
+# Doki Theme: Literature Club - Sayori Light
+mode = "light"
+
+accent = "#00aac0"
+selection = "#a9c8ec"
+muted = "#7790af"
+
+background = "#f3faff"
+dark_background = "#e4f4ff"
+darker_background = "#d4edff"
+lighter_background = "#ecfbff"
+
+foreground = "#252427"
+dark_foreground = "#aaaaaa"
+light_foreground = "#252427"
+bright_foreground = "#393d45"
+
+red = "#ff2c2c"
+yellow = "#bb7326"
+orange = "#d75b41"
+green = "#30964b"
+cyan = "#008fa1"
+blue = "#3f77ef"
+magenta = "#9f69dc"
+brown = "#a73b23"
+
+bright_red = "#ff0e0e"
+bright_yellow = "#a16421"
+bright_green = "#297f40"
+bright_cyan = "#007482"
+bright_blue = "#2363ed"
+bright_magenta = "#8f50d6"

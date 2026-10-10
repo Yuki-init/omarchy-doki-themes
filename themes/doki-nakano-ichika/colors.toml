@@ -1,0 +1,32 @@
+# Doki Theme: Quintessential Quintuplets - Nakano Ichika
+mode = "light"
+
+accent = "#7f5ef5"
+selection = "#f1b7d6"
+muted = "#957aa3"
+
+background = "#ebd3ff"
+dark_background = "#e4c4ff"
+darker_background = "#ddb4ff"
+lighter_background = "#dbbdf6"
+
+foreground = "#101010"
+dark_foreground = "#8541b3"
+light_foreground = "#101010"
+bright_foreground = "#101010"
+
+red = "#e10618"
+yellow = "#9c651f"
+orange = "#ae5316"
+green = "#1c7c34"
+cyan = "#077d90"
+blue = "#3566e4"
+magenta = "#c800b7"
+brown = "#6a330e"
+
+bright_red = "#c30515"
+bright_yellow = "#82551a"
+bright_green = "#17632a"
+bright_cyan = "#056373"
+bright_blue = "#1e53dc"
+bright_magenta = "#aa009b"

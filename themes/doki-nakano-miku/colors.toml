@@ -1,0 +1,32 @@
+# Doki Theme: Quintessential Quintuplets - Nakano Miku
+mode = "dark"
+
+accent = "#a5f3fa"
+selection = "#498192"
+muted = "#6c888d"
+
+background = "#25475e"
+dark_background = "#213f53"
+darker_background = "#1c3648"
+lighter_background = "#233f55"
+
+foreground = "#f3edff"
+dark_foreground = "#b9dfb6"
+light_foreground = "#f3edff"
+bright_foreground = "#c1fdff"
+
+red = "#da8d97"
+yellow = "#fffeaf"
+orange = "#fdaa39"
+green = "#60ff62"
+cyan = "#a5f3fa"
+blue = "#4c8fff"
+magenta = "#ff9cf5"
+brown = "#b56902"
+
+bright_red = "#e4acb3"
+bright_yellow = "#ffffd8"
+bright_green = "#89ff8a"
+bright_cyan = "#ccf8fc"
+bright_blue = "#75a8ff"
+bright_magenta = "#ffc5f9"

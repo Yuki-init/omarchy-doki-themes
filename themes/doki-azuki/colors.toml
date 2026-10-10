@@ -1,0 +1,32 @@
+# Doki Theme: NekoPara - Azuki
+mode = "dark"
+
+accent = "#e9b14e"
+selection = "#684e29"
+muted = "#807066"
+
+background = "#322623"
+dark_background = "#291f1d"
+darker_background = "#201816"
+lighter_background = "#291e1b"
+
+foreground = "#bfbfbf"
+dark_foreground = "#6c635a"
+light_foreground = "#bfbfbf"
+bright_foreground = "#fbfbfb"
+
+red = "#ff5555"
+yellow = "#f5d15d"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#96f3fd"
+blue = "#6fa8ff"
+magenta = "#efacfc"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#f7dc83"
+bright_green = "#66eb88"
+bright_cyan = "#bef8fe"
+bright_blue = "#98c1ff"
+bright_magenta = "#f7d3fd"

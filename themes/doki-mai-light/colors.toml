@@ -1,0 +1,32 @@
+# Doki Theme: Bunny Senpai - Mai Light
+mode = "light"
+
+accent = "#4f5287"
+selection = "#b1b0d2"
+muted = "#64757d"
+
+background = "#fbf3f2"
+dark_background = "#f7e8e6"
+darker_background = "#f4dddb"
+lighter_background = "#f8efee"
+
+foreground = "#252427"
+dark_foreground = "#aaaaaa"
+light_foreground = "#252427"
+bright_foreground = "#393d45"
+
+red = "#ff1818"
+yellow = "#b26e24"
+orange = "#b97028"
+green = "#2e8e48"
+cyan = "#088ea3"
+blue = "#5b75f7"
+magenta = "#e203cb"
+brown = "#7a4a1a"
+
+bright_red = "#f80000"
+bright_yellow = "#995e1f"
+bright_green = "#26773c"
+bright_cyan = "#067486"
+bright_blue = "#3d5cf6"
+bright_magenta = "#c403b0"

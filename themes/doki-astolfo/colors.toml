@@ -1,0 +1,32 @@
+# Doki Theme: Fate - Astolfo
+mode = "dark"
+
+accent = "#d58d9c"
+selection = "#501c1c"
+muted = "#6272a4"
+
+background = "#171816"
+dark_background = "#0f100f"
+darker_background = "#080807"
+lighter_background = "#141513"
+
+foreground = "#bbbbbb"
+dark_foreground = "#8e856e"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#d58d9c"
+yellow = "#f6ebb7"
+orange = "#eabd90"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6fa8ff"
+magenta = "#f5c9fc"
+brown = "#d37d28"
+
+bright_red = "#e0abb6"
+bright_yellow = "#fbf5db"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#98c1ff"
+bright_magenta = "#fcf0fe"

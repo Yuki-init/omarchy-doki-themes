@@ -1,0 +1,32 @@
+# Doki Theme: Literature Club - Yuri Dark
+mode = "dark"
+
+accent = "#b256c1"
+selection = "#663995"
+muted = "#8b79b4"
+
+background = "#493162"
+dark_background = "#412c58"
+darker_background = "#3a274e"
+lighter_background = "#412d62"
+
+foreground = "#dadada"
+dark_foreground = "#6f6679"
+light_foreground = "#dadada"
+bright_foreground = "#d4c8ff"
+
+red = "#ff5555"
+yellow = "#f1ff86"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6e85f8"
+magenta = "#b174bc"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#f6ffaf"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#95a6fa"
+bright_magenta = "#c08fc9"

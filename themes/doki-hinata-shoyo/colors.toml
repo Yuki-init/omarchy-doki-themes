@@ -1,0 +1,32 @@
+# Doki Theme: Haikyu!! - Hinata Shoyo
+mode = "dark"
+
+accent = "#f58d02"
+selection = "#6a473d"
+muted = "#6b6c80"
+
+background = "#26223d"
+dark_background = "#201d33"
+darker_background = "#1a1729"
+lighter_background = "#1b1830"
+
+foreground = "#b0b0b0"
+dark_foreground = "#55596c"
+light_foreground = "#b0b0b0"
+bright_foreground = "#fbfbfb"
+
+red = "#ec9cb2"
+yellow = "#ffc32f"
+orange = "#ba804b"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#5886fa"
+magenta = "#d58cff"
+brown = "#614125"
+
+bright_red = "#f3becd"
+bright_yellow = "#ffcf58"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#80a3fb"
+bright_magenta = "#e4b5ff"

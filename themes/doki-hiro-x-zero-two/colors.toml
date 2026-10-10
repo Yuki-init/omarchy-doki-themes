@@ -1,0 +1,32 @@
+# Doki Theme: Darling in the Franxx - Hiro x Zero Two
+mode = "dark"
+
+accent = "#c93939"
+selection = "#29466c"
+muted = "#71688d"
+
+background = "#150b24"
+dark_background = "#0e0718"
+darker_background = "#07040d"
+lighter_background = "#0d041c"
+
+foreground = "#b8b8b8"
+dark_foreground = "#5f4e65"
+light_foreground = "#b8b8b8"
+bright_foreground = "#fefefe"
+
+red = "#c93939"
+yellow = "#efa554"
+orange = "#ffa25f"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#1a68fa"
+magenta = "#ff96fd"
+brown = "#de5d00"
+
+bright_red = "#d25959"
+bright_yellow = "#f2b979"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#4282fb"
+bright_magenta = "#ffbffe"

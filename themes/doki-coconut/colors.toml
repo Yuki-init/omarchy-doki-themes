@@ -1,0 +1,32 @@
+# Doki Theme: NekoPara - Coconut
+mode = "dark"
+
+accent = "#d2b503"
+selection = "#255b82"
+muted = "#6f6880"
+
+background = "#3a3143"
+dark_background = "#322b3a"
+darker_background = "#2b2431"
+lighter_background = "#2d2735"
+
+foreground = "#d3d3d3"
+dark_foreground = "#605a6c"
+light_foreground = "#d3d3d3"
+bright_foreground = "#fefefe"
+
+red = "#ff858c"
+yellow = "#d2b503"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6c89fd"
+magenta = "#dd8cf8"
+brown = "#b36511"
+
+bright_red = "#ffaeb2"
+bright_yellow = "#fad804"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#94a9fe"
+bright_magenta = "#e8b2fa"

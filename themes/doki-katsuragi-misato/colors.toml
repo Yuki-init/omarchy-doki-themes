@@ -1,0 +1,32 @@
+# Doki Theme: Evangelion - Katsuragi Misato
+mode = "dark"
+
+accent = "#c2383e"
+selection = "#8a2b4d"
+muted = "#786598"
+
+background = "#3a2333"
+dark_background = "#301d2b"
+darker_background = "#271722"
+lighter_background = "#382639"
+
+foreground = "#c3b4bf"
+dark_foreground = "#666879"
+light_foreground = "#b5a3b0"
+bright_foreground = "#ffffff"
+
+red = "#c9454b"
+yellow = "#faf7ba"
+orange = "#efa554"
+green = "#6cff6e"
+cyan = "#75d7ec"
+blue = "#6aadff"
+magenta = "#d87dfc"
+brown = "#b36511"
+
+bright_red = "#d2656a"
+bright_yellow = "#fdfbe0"
+bright_green = "#95ff96"
+bright_cyan = "#99e1f1"
+bright_blue = "#93c3ff"
+bright_magenta = "#e4a5fd"

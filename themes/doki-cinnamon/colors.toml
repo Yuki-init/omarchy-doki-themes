@@ -1,0 +1,32 @@
+# Doki Theme: NekoPara - Cinnamon
+mode = "dark"
+
+accent = "#54e255"
+selection = "#3a6c75"
+muted = "#7384d4"
+
+background = "#393784"
+dark_background = "#343279"
+darker_background = "#302e6e"
+lighter_background = "#333184"
+
+foreground = "#f3edff"
+dark_foreground = "#ffffff"
+light_foreground = "#f3edff"
+bright_foreground = "#e7e9ff"
+
+red = "#ff5555"
+yellow = "#fff78e"
+orange = "#fdaa39"
+green = "#6eea70"
+cyan = "#6dd6ee"
+blue = "#8bc1f8"
+magenta = "#d0a2fa"
+brown = "#b56902"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#fffab7"
+bright_green = "#92ef93"
+bright_cyan = "#92e0f2"
+bright_blue = "#b1d6fa"
+bright_magenta = "#e4c9fc"

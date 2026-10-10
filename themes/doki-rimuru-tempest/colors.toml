@@ -1,0 +1,32 @@
+# Doki Theme: That Time I Get ReIncarnated As A Slime - Rimuru Tempest
+mode = "dark"
+
+accent = "#d7cf8b"
+selection = "#29466c"
+muted = "#716b78"
+
+background = "#262127"
+dark_background = "#1e1a1f"
+darker_background = "#161316"
+lighter_background = "#151016"
+
+foreground = "#d3d3d3"
+dark_foreground = "#675a6c"
+light_foreground = "#d3d3d3"
+bright_foreground = "#fefefe"
+
+red = "#ff2525"
+yellow = "#f6eda4"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#6ee4f8"
+blue = "#388bfc"
+magenta = "#ff96fd"
+brown = "#b36511"
+
+bright_red = "#ff4e4e"
+bright_yellow = "#faf4c9"
+bright_green = "#66eb88"
+bright_cyan = "#95ebfa"
+bright_blue = "#60a2fd"
+bright_magenta = "#ffbffe"

@@ -1,0 +1,32 @@
+# Doki Theme: Darling in the Franxx - Zero Two Light Sakura
+mode = "light"
+
+accent = "#a62210"
+selection = "#c1e9d4"
+muted = "#99717e"
+
+background = "#ffeaf2"
+dark_background = "#ffdbe9"
+darker_background = "#ffcbdf"
+lighter_background = "#ffdeeb"
+
+foreground = "#252427"
+dark_foreground = "#bb9bb1"
+light_foreground = "#252427"
+bright_foreground = "#393d45"
+
+red = "#ec081e"
+yellow = "#b26e24"
+orange = "#a62210"
+green = "#2e8e48"
+cyan = "#07859a"
+blue = "#0d5fa6"
+magenta = "#b73dff"
+brown = "#601409"
+
+bright_red = "#ce071a"
+bright_yellow = "#995e1f"
+bright_green = "#26773c"
+bright_cyan = "#066c7c"
+bright_blue = "#0b4f8a"
+bright_magenta = "#ac1eff"

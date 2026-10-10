@@ -1,0 +1,32 @@
+# Doki Theme: Chuunibyou - Takanashi Rikka
+mode = "dark"
+
+accent = "#dd2a62"
+selection = "#761d3a"
+muted = "#bf88a4"
+
+background = "#231e2d"
+dark_background = "#1c1824"
+darker_background = "#15121b"
+lighter_background = "#16121e"
+
+foreground = "#bbbbbb"
+dark_foreground = "#8e6e7b"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#de4371"
+yellow = "#f3c61f"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#a1a9ff"
+magenta = "#ffb4f8"
+brown = "#b36511"
+
+bright_red = "#e4668b"
+bright_yellow = "#f5d046"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#caceff"
+bright_magenta = "#ffddfc"

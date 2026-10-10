@@ -1,0 +1,32 @@
+# Doki Theme: Monogatari - Hanekawa Tsubasa
+mode = "dark"
+
+accent = "#634f8d"
+selection = "#5a3b5d"
+muted = "#79769f"
+
+background = "#141115"
+dark_background = "#0c0a0d"
+darker_background = "#040304"
+lighter_background = "#1b1820"
+
+foreground = "#c3c3c3"
+dark_foreground = "#777495"
+light_foreground = "#c3c3c3"
+bright_foreground = "#ebd6fc"
+
+red = "#ff5555"
+yellow = "#f6e3cc"
+orange = "#e39656"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6e85f8"
+magenta = "#d55fde"
+brown = "#9f571a"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#fcf6ef"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#95a6fa"
+bright_magenta = "#de81e5"

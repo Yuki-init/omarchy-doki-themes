@@ -1,0 +1,32 @@
+# Doki Theme: Gate - Rory Mercury
+mode = "dark"
+
+accent = "#b53241"
+selection = "#502121"
+muted = "#9a6262"
+
+background = "#161619"
+dark_background = "#0f0f11"
+darker_background = "#080809"
+lighter_background = "#111114"
+
+foreground = "#c3c3c3"
+dark_foreground = "#796666"
+light_foreground = "#c3c3c3"
+bright_foreground = "#fbfbfb"
+
+red = "#b53241"
+yellow = "#efa554"
+orange = "#ffa25f"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#7b99fd"
+magenta = "#d58cff"
+brown = "#de5d00"
+
+bright_red = "#cb4454"
+bright_yellow = "#f2b979"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#a3b8fe"
+bright_magenta = "#e4b5ff"

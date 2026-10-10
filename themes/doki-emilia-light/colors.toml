@@ -1,0 +1,32 @@
+# Doki Theme: Re Zero - Emilia Light
+mode = "light"
+
+accent = "#82357d"
+selection = "#c7a0d2"
+muted = "#6a737d"
+
+background = "#fcf3ff"
+dark_background = "#f8e4ff"
+darker_background = "#f4d4ff"
+lighter_background = "#faecff"
+
+foreground = "#252427"
+dark_foreground = "#aaaaaa"
+light_foreground = "#252427"
+bright_foreground = "#393d45"
+
+red = "#ff2222"
+yellow = "#b26e24"
+orange = "#c9601a"
+green = "#2e8e48"
+cyan = "#088ea3"
+blue = "#3385d0"
+magenta = "#d92be0"
+brown = "#854011"
+
+bright_red = "#ff0303"
+bright_yellow = "#995e1f"
+bright_green = "#26773c"
+bright_cyan = "#067486"
+bright_blue = "#2b76ba"
+bright_magenta = "#c81ece"

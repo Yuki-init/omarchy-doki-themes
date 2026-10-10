@@ -1,0 +1,32 @@
+# Doki Theme: OreImo - Kirino
+mode = "dark"
+
+accent = "#6cb3b5"
+selection = "#3d213e"
+muted = "#6a8882"
+
+background = "#152321"
+dark_background = "#0f1918"
+darker_background = "#0a100f"
+lighter_background = "#182826"
+
+foreground = "#cbcbcb"
+dark_foreground = "#657978"
+light_foreground = "#cbcbcb"
+bright_foreground = "#fbfbfb"
+
+red = "#ea7797"
+yellow = "#eec45e"
+orange = "#efa554"
+green = "#8bef85"
+cyan = "#317d89"
+blue = "#57ade2"
+magenta = "#e77fd5"
+brown = "#b36511"
+
+bright_red = "#ef9ab2"
+bright_yellow = "#f2d283"
+bright_green = "#adf4a9"
+bright_cyan = "#3c98a7"
+bright_blue = "#7abee8"
+bright_magenta = "#eda1e0"

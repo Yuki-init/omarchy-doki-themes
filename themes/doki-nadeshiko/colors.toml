@@ -1,0 +1,32 @@
+# Doki Theme: Yuru Camp - Nadeshiko
+mode = "dark"
+
+accent = "#78c6d0"
+selection = "#553854"
+muted = "#80687f"
+
+background = "#34252e"
+dark_background = "#2b1f26"
+darker_background = "#22181e"
+lighter_background = "#2a1c23"
+
+foreground = "#b5b5b5"
+dark_foreground = "#6a5a6c"
+light_foreground = "#b0b0b0"
+bright_foreground = "#fbfbfb"
+
+red = "#ec9cb2"
+yellow = "#f6e9cb"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#8ed4d9"
+blue = "#6e85f8"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#f3becd"
+bright_yellow = "#fcf8ee"
+bright_green = "#66eb88"
+bright_cyan = "#ade0e3"
+bright_blue = "#95a6fa"
+bright_magenta = "#e4b5ff"

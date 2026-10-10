@@ -1,0 +1,32 @@
+# Doki Theme: Fate - Ishtar Light
+mode = "light"
+
+accent = "#d98e0a"
+selection = "#fff5c7"
+muted = "#6a737d"
+
+background = "#fffffc"
+dark_background = "#ffffed"
+darker_background = "#ffffdd"
+lighter_background = "#fcfcfa"
+
+foreground = "#252427"
+dark_foreground = "#aaaaaa"
+light_foreground = "#252427"
+bright_foreground = "#393d45"
+
+red = "#ff3263"
+yellow = "#9a8046"
+orange = "#bb7326"
+green = "#30964b"
+cyan = "#0896ad"
+blue = "#3586ed"
+magenta = "#a043c9"
+brown = "#7b4c19"
+
+bright_red = "#ff144b"
+bright_yellow = "#856f3c"
+bright_green = "#297f40"
+bright_cyan = "#077d90"
+bright_blue = "#1976eb"
+bright_magenta = "#9035b8"

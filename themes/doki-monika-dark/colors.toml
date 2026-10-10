@@ -1,0 +1,32 @@
+# Doki Theme: Literature Club - Monika Dark
+mode = "dark"
+
+accent = "#388e3c"
+selection = "#30432b"
+muted = "#647863"
+
+background = "#1a1e12"
+dark_background = "#12140c"
+darker_background = "#090b07"
+lighter_background = "#1a1e12"
+
+foreground = "#bbbbbb"
+dark_foreground = "#697966"
+light_foreground = "#bbbbbb"
+bright_foreground = "#ffffff"
+
+red = "#ff5555"
+yellow = "#ffea82"
+orange = "#efa554"
+green = "#abffaf"
+cyan = "#75d7ec"
+blue = "#5a92fc"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#fff1ab"
+bright_green = "#d4ffd6"
+bright_cyan = "#99e1f1"
+bright_blue = "#82acfd"
+bright_magenta = "#e4b5ff"

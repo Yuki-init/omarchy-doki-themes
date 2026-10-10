@@ -1,0 +1,32 @@
+# Doki Theme: NekoPara - Vanilla
+mode = "dark"
+
+accent = "#9debff"
+selection = "#374872"
+muted = "#686a80"
+
+background = "#2d2f43"
+dark_background = "#27293a"
+darker_background = "#212231"
+lighter_background = "#272935"
+
+foreground = "#cdcdcd"
+dark_foreground = "#5a5e6c"
+light_foreground = "#cdcdcd"
+bright_foreground = "#fefefe"
+
+red = "#ff5555"
+yellow = "#ffd448"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#aef5ff"
+blue = "#6a96e9"
+magenta = "#ec9af6"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#ffde71"
+bright_green = "#66eb88"
+bright_cyan = "#d7faff"
+bright_blue = "#8eafee"
+bright_magenta = "#f3bff9"

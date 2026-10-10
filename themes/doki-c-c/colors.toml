@@ -1,0 +1,32 @@
+# Doki Theme: Code Geass - C.C.
+mode = "light"
+
+accent = "#63a316"
+selection = "#92d564"
+muted = "#60824b"
+
+background = "#d2f69b"
+dark_background = "#ccf58d"
+darker_background = "#c5f37f"
+lighter_background = "#b5de76"
+
+foreground = "#101010"
+dark_foreground = "#507433"
+light_foreground = "#101010"
+bright_foreground = "#101010"
+
+red = "#f3000f"
+yellow = "#a57105"
+orange = "#a46b21"
+green = "#208d3b"
+cyan = "#07859a"
+blue = "#2b57a7"
+magenta = "#a043c9"
+brown = "#644114"
+
+bright_red = "#d4000d"
+bright_yellow = "#875c04"
+bright_green = "#1a7431"
+bright_cyan = "#066c7c"
+bright_blue = "#254a8f"
+bright_magenta = "#9035b8"

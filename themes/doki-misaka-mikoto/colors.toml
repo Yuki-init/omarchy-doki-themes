@@ -1,0 +1,32 @@
+# Doki Theme: Toaru Majutsu no Index - Misaka Mikoto
+mode = "dark"
+
+accent = "#3eb7e5"
+selection = "#05649c"
+muted = "#5c6c9e"
+
+background = "#0d193b"
+dark_background = "#0a142e"
+darker_background = "#070e22"
+lighter_background = "#030e24"
+
+foreground = "#dbdbdb"
+dark_foreground = "#5d6680"
+light_foreground = "#dbdbdb"
+bright_foreground = "#fbfbfb"
+
+red = "#ea7797"
+yellow = "#ffe35c"
+orange = "#efa554"
+green = "#8bef85"
+cyan = "#a5f3fa"
+blue = "#7fa8ff"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#ef9ab2"
+bright_yellow = "#ffea85"
+bright_green = "#adf4a9"
+bright_cyan = "#ccf8fc"
+bright_blue = "#a8c4ff"
+bright_magenta = "#e4b5ff"

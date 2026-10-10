@@ -1,0 +1,32 @@
+# Doki Theme: NekoPara - Maple Light
+mode = "light"
+
+accent = "#923a4e"
+selection = "#ec9e74"
+muted = "#908250"
+
+background = "#ffd297"
+dark_background = "#ffcb88"
+darker_background = "#ffc578"
+lighter_background = "#f9ca92"
+
+foreground = "#101010"
+dark_foreground = "#693434"
+light_foreground = "#101010"
+bright_foreground = "#651c10"
+
+red = "#923a4e"
+yellow = "#93601e"
+orange = "#b03f0f"
+green = "#1c7c34"
+cyan = "#067486"
+blue = "#005cc5"
+magenta = "#a043c9"
+brown = "#6a2609"
+
+bright_red = "#7c3142"
+bright_yellow = "#7a4f18"
+bright_green = "#17632a"
+bright_cyan = "#055b69"
+bright_blue = "#004ea6"
+bright_magenta = "#9035b8"

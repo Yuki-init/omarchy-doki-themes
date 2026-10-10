@@ -1,0 +1,32 @@
+# Doki Theme: Darling in the Franxx - Zero Two Dark Rose
+mode = "dark"
+
+accent = "#e4dad4"
+selection = "#531e1e"
+muted = "#a47272"
+
+background = "#330f10"
+dark_background = "#270c0c"
+darker_background = "#1b0809"
+lighter_background = "#330e0e"
+
+foreground = "#efefef"
+dark_foreground = "#a87975"
+light_foreground = "#efefef"
+bright_foreground = "#fbfbfb"
+
+red = "#c82b3e"
+yellow = "#e2d9bd"
+orange = "#ffb86c"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#6fa8ff"
+magenta = "#d58cff"
+brown = "#ec7a00"
+
+bright_red = "#d74657"
+bright_yellow = "#eee9d9"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#98c1ff"
+bright_magenta = "#e4b5ff"

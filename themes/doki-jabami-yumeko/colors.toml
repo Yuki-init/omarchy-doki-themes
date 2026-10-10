@@ -1,0 +1,32 @@
+# Doki Theme: Kakegurui - Jabami Yumeko
+mode = "dark"
+
+accent = "#9b1b24"
+selection = "#390c10"
+muted = "#735253"
+
+background = "#070000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#160304"
+
+foreground = "#dbdbdb"
+dark_foreground = "#97706f"
+light_foreground = "#dbdbdb"
+bright_foreground = "#fbfbfb"
+
+red = "#b61325"
+yellow = "#e4ff10"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#4fcad5"
+blue = "#7092ea"
+magenta = "#d18bff"
+brown = "#b36511"
+
+bright_red = "#db172c"
+bright_yellow = "#e9ff39"
+bright_green = "#66eb88"
+bright_cyan = "#70d4dd"
+bright_blue = "#94adef"
+bright_magenta = "#e1b4ff"

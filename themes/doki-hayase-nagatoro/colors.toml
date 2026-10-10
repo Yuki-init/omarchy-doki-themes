@@ -1,0 +1,32 @@
+# Doki Theme: Don't Toy with me Miss Nagatoro - Hayase Nagatoro
+mode = "dark"
+
+accent = "#d2824e"
+selection = "#5d3e2f"
+muted = "#5b574a"
+
+background = "#1d1d1d"
+dark_background = "#151515"
+darker_background = "#0e0e0e"
+lighter_background = "#171717"
+
+foreground = "#bbbbbb"
+dark_foreground = "#5d5550"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#ff2525"
+yellow = "#efa554"
+orange = "#85603a"
+green = "#62e665"
+cyan = "#5edcf1"
+blue = "#5a7ff8"
+magenta = "#d58cff"
+brown = "#2c2013"
+
+bright_red = "#ff4e4e"
+bright_yellow = "#f2b979"
+bright_green = "#85ec88"
+bright_cyan = "#84e4f4"
+bright_blue = "#819dfa"
+bright_magenta = "#e4b5ff"

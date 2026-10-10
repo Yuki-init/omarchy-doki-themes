@@ -1,0 +1,32 @@
+# Doki Theme: Azur Lane - Essex
+mode = "dark"
+
+accent = "#d53232"
+selection = "#480f0f"
+muted = "#6387af"
+
+background = "#002446"
+dark_background = "#001c37"
+darker_background = "#001427"
+lighter_background = "#002f5d"
+
+foreground = "#d7d7d7"
+dark_foreground = "#5d7685"
+light_foreground = "#d7d7d7"
+bright_foreground = "#fbfbfb"
+
+red = "#db3b46"
+yellow = "#ffd448"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#78dbef"
+blue = "#2d96ea"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#e15d67"
+bright_yellow = "#ffde71"
+bright_green = "#66eb88"
+bright_cyan = "#9ce5f3"
+bright_blue = "#52a9ee"
+bright_magenta = "#e4b5ff"

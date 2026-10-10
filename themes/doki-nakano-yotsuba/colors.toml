@@ -1,0 +1,32 @@
+# Doki Theme: Quintessential Quintuplets - Nakano Yotsuba
+mode = "dark"
+
+accent = "#e86a44"
+selection = "#622316"
+muted = "#6c524e"
+
+background = "#140e19"
+dark_background = "#0c090f"
+darker_background = "#040305"
+lighter_background = "#1a0d20"
+
+foreground = "#bbbbbb"
+dark_foreground = "#f8e3d7"
+light_foreground = "#bbbbbb"
+bright_foreground = "#fbfbfb"
+
+red = "#ff858c"
+yellow = "#ffba2f"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#9dacf6"
+magenta = "#fa99ed"
+brown = "#b36511"
+
+bright_red = "#ffaeb2"
+bright_yellow = "#ffc858"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#c2ccf9"
+bright_magenta = "#fcc0f4"

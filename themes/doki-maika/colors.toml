@@ -1,0 +1,32 @@
+# Doki Theme: Blend S - Maika
+mode = "dark"
+
+accent = "#bc5d71"
+selection = "#3d1535"
+muted = "#7d62a4"
+
+background = "#24062f"
+dark_background = "#1a0421"
+darker_background = "#0f0314"
+lighter_background = "#260633"
+
+foreground = "#c9c9c9"
+dark_foreground = "#70677b"
+light_foreground = "#c9c9c9"
+bright_foreground = "#fbfbfb"
+
+red = "#dc526e"
+yellow = "#f6e7ba"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#79b7c1"
+blue = "#6e85f8"
+magenta = "#e09cf3"
+brown = "#b36511"
+
+bright_red = "#e3748a"
+bright_yellow = "#fbf4de"
+bright_green = "#66eb88"
+bright_cyan = "#95c6ce"
+bright_blue = "#95a6fa"
+bright_magenta = "#ebc0f7"

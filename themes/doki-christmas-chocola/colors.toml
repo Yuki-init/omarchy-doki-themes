@@ -1,0 +1,32 @@
+# Doki Theme: NekoPara - Christmas Chocola
+mode = "dark"
+
+accent = "#fffffe"
+selection = "#1f422d"
+muted = "#a26673"
+
+background = "#3c161f"
+dark_background = "#311219"
+darker_background = "#260e13"
+lighter_background = "#2d0c13"
+
+foreground = "#d3d3d3"
+dark_foreground = "#6d816c"
+light_foreground = "#d3d3d3"
+bright_foreground = "#fefefe"
+
+red = "#f06b7e"
+yellow = "#ebc190"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#96b7fb"
+magenta = "#d58cff"
+brown = "#b36511"
+
+bright_red = "#f4909e"
+bright_yellow = "#f1d4b3"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#bdd2fc"
+bright_magenta = "#e4b5ff"

@@ -1,0 +1,32 @@
+# Doki Theme: Miss Kobayashi's Dragon Maid - Tohru
+mode = "light"
+
+accent = "#d23c4b"
+selection = "#ec9e74"
+muted = "#908250"
+
+background = "#ffe591"
+dark_background = "#ffe182"
+darker_background = "#ffde72"
+lighter_background = "#fde388"
+
+foreground = "#101010"
+dark_foreground = "#693434"
+light_foreground = "#101010"
+bright_foreground = "#652009"
+
+red = "#de3547"
+yellow = "#aa6922"
+orange = "#c15407"
+green = "#1a821b"
+cyan = "#077d90"
+blue = "#005cc5"
+magenta = "#a043c9"
+brown = "#773404"
+
+bright_red = "#d22236"
+bright_yellow = "#90591d"
+bright_green = "#156816"
+bright_cyan = "#056373"
+bright_blue = "#004ea6"
+bright_magenta = "#9035b8"

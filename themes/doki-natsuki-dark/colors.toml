@@ -1,0 +1,32 @@
+# Doki Theme: Literature Club - Natsuki Dark
+mode = "dark"
+
+accent = "#e94686"
+selection = "#602b50"
+muted = "#a179a7"
+
+background = "#310a29"
+dark_background = "#24071e"
+darker_background = "#180514"
+lighter_background = "#330a2b"
+
+foreground = "#bbbbbb"
+dark_foreground = "#796675"
+light_foreground = "#bbbbbb"
+bright_foreground = "#e6afca"
+
+red = "#ff5555"
+yellow = "#f6e9cb"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#9dc0ff"
+magenta = "#ebabfd"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#fcf8ee"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#c6daff"
+bright_magenta = "#f4d3fe"

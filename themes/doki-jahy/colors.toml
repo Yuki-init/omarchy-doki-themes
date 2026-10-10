@@ -1,0 +1,32 @@
+# Doki Theme: The Great Jahy Will Not Be Defeated - Jahy
+mode = "dark"
+
+accent = "#874488"
+selection = "#452346"
+muted = "#816f93"
+
+background = "#221738"
+dark_background = "#1b132d"
+darker_background = "#150e22"
+lighter_background = "#220e29"
+
+foreground = "#cbcbcb"
+dark_foreground = "#656079"
+light_foreground = "#cbcbcb"
+bright_foreground = "#fbfbfb"
+
+red = "#ea7797"
+yellow = "#eec45e"
+orange = "#efa554"
+green = "#8bef85"
+cyan = "#75d7ec"
+blue = "#6e70f8"
+magenta = "#ca5bcb"
+brown = "#b36511"
+
+bright_red = "#ef9ab2"
+bright_yellow = "#f2d283"
+bright_green = "#adf4a9"
+bright_cyan = "#99e1f1"
+bright_blue = "#9596fa"
+bright_magenta = "#d47ad5"

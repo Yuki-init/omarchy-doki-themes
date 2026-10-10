@@ -1,0 +1,32 @@
+# Doki Theme: Love Live - Sonoda Umi
+mode = "dark"
+
+accent = "#efa554"
+selection = "#272a59"
+muted = "#6272a4"
+
+background = "#15173e"
+dark_background = "#111333"
+darker_background = "#0d0f27"
+lighter_background = "#151739"
+
+foreground = "#d0d0d0"
+dark_foreground = "#5e5e79"
+light_foreground = "#d0d0d0"
+bright_foreground = "#fbfbfb"
+
+red = "#ff5555"
+yellow = "#fff6b3"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#6ee4f8"
+blue = "#6878c2"
+magenta = "#bd84dd"
+brown = "#b36511"
+
+bright_red = "#ff7e7e"
+bright_yellow = "#fffbdc"
+bright_green = "#66eb88"
+bright_cyan = "#95ebfa"
+bright_blue = "#8592ce"
+bright_magenta = "#cea4e6"

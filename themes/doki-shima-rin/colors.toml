@@ -1,0 +1,32 @@
+# Doki Theme: Yuru Camp - Shima Rin
+mode = "dark"
+
+accent = "#6688ad"
+selection = "#4f3a4e"
+muted = "#687380"
+
+background = "#323742"
+dark_background = "#2b3039"
+darker_background = "#252831"
+lighter_background = "#2c3039"
+
+foreground = "#cacaca"
+dark_foreground = "#5a626c"
+light_foreground = "#b0b0b0"
+bright_foreground = "#fbfbfb"
+
+red = "#f18ea7"
+yellow = "#f6e9cb"
+orange = "#efa554"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#89acf6"
+magenta = "#e97ff5"
+brown = "#b36511"
+
+bright_red = "#f5b2c3"
+bright_yellow = "#fcf8ee"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#afc7f9"
+bright_magenta = "#f0a5f8"

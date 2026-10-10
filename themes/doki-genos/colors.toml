@@ -1,0 +1,32 @@
+# Doki Theme: One Punch Man - Genos
+mode = "dark"
+
+accent = "#ddc7a1"
+selection = "#605d51"
+muted = "#918561"
+
+background = "#2f3031"
+dark_background = "#282829"
+darker_background = "#202121"
+lighter_background = "#232529"
+
+foreground = "#dbdbdb"
+dark_foreground = "#80755d"
+light_foreground = "#dbdbdb"
+bright_foreground = "#fbfbfb"
+
+red = "#ea7777"
+yellow = "#dcd195"
+orange = "#ff984b"
+green = "#42e66c"
+cyan = "#75d7ec"
+blue = "#8acaff"
+magenta = "#d58cff"
+brown = "#cb5700"
+
+bright_red = "#ef9a9a"
+bright_yellow = "#e6deb4"
+bright_green = "#66eb88"
+bright_cyan = "#99e1f1"
+bright_blue = "#b3dcff"
+bright_magenta = "#e4b5ff"
